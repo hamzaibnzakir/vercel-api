@@ -10,7 +10,7 @@ const LICENSES = {
   "yunish987.myshopify.com": "BBX-9VYY-7ZVG-XSW2"
 };
 
-const CACHE_TTL = 86400;
+const CACHE_TTL = 300;
 
 module.exports = function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
