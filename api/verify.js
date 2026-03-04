@@ -6,9 +6,7 @@
 // Add your students licenses here as:
 // "their-store.myshopify.com": "THEIR-LICENSE-KEY"
 // ============================================================
-const LICENSES = {
-  "yunish987.myshopify.com": "BBX-9VYY-7ZVG-XSW2"
-};
+const LICENSES = {};
 
 const CACHE_TTL = 30;
 
