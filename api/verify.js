@@ -7,8 +7,7 @@
 // "their-store.myshopify.com": "THEIR-LICENSE-KEY"
 // ============================================================
 const LICENSES = {
-  // Add students here after generating keys in license-manager.html
-  // "yunish987.myshopify.com": "BBX-9VYY-7ZVG-XSW2",
+  "yunish987.myshopify.com": "BBX-9VYY-7ZVG-XSW2",
 };
 
 const CACHE_TTL = 86400;
