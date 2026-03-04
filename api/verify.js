@@ -7,8 +7,7 @@
 // "their-store.myshopify.com": "THEIR-LICENSE-KEY"
 // ============================================================
 const LICENSES = {
-  "yunish987.myshopify.com": "BBX-9VYY-7ZVG-XSW2",
-  "undeercover.myshopify.com": "BBX-F24L-NQ4X-LEV9",
+  "yunish987.myshopify.com": "BBX-9VYY-7ZVG-XSW2"
 };
 
 const CACHE_TTL = 86400;
