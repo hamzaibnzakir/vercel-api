@@ -8,7 +8,7 @@
 // ============================================================
 const LICENSES = {
   // Add students here after generating keys in license-manager.html
-  // "studentstore.myshopify.com": "BBX-XXXX-XXXX-XXXX",
+  // "yunish987.myshopify.com": "BBX-9VYY-7ZVG-XSW2",
 };
 
 const CACHE_TTL = 86400;
